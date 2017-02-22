@@ -1,2 +1,3 @@
 # hello-world
-My first "hello-world" test project
+Hi
+This is my first "hello-world" test project
